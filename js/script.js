@@ -18,6 +18,53 @@ function load() {
         'DiagnosticoExpress[{}]consultar-fftt-tobe',
         'DiagnosticoExpress[{}]consultar-fftt-asis'
     ]
+
+    const consultaDataServicio = [
+        'id-servicio',
+        'nodo',
+        'id-venta',
+        'mac',
+        'id-cliente'
+    ]
+
+    const recuperaInfoTelefono = [
+        'codigo-cliente'
+    ]
+
+    const recuperaSincronismoMulticonsulta = [
+        'troba',
+        'MACState',
+        'PowerDown',
+        'PowerUp',
+        'Fabricante',
+        'Modelo',
+        'Firmware'
+    ]
+
+    const recuperaSincronismoMacNivelesPotenciaRuidoIwy2 = [
+        'portadora1-down-ruido',
+        'portadora1-up-ruido',
+        'cmts',
+        'ispCPE',
+        'mtaMacAddress',
+        'estado-intraway2',
+        'downStream',
+        'portadora1-up-potencia',
+        'servicePackage'
+    ]
+
+    const consultaSri = [
+        'ipaddress'
+    ]
+
+    const consultarFfttTobe = [
+        'numero-telefono'
+    ]
+
+    const consultarFfttAsis = [
+        'codigo-isp'
+    ]
+    
     fetch(url)
         .then(res => res.json())
         .then(data => {
@@ -40,6 +87,10 @@ function load() {
             console.log(value);
             function search(obj) {
                 return obj.name === value;
+            }
+
+            function arrayKey(aData) {
+                return aData.key === value;
             }
         });
 };
