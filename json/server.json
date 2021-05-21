@@ -1,0 +1,1414 @@
+{
+    "data": {
+        "id": "19823447",
+        "description": "averia",
+        "severity": "minor",
+        "type": "TroubleTicket",
+        "priority": 2,
+        "status": "Resuelto",
+        "statusChangeReason": "Cliente con estado comercial: (active) , con tecnología (HFC), con Avería Pendiente (SI), Código de Avería (91696598),  Fecha de creación Avería (2021-03-10 12:03:40), Tipo de Avería (Avería Individual), con masiva GAMPE(NO), Descripción masiva (Null), Estado Cable Modem (operational), Niveles de Potencia y Ruido correctos (SI), Portadora down (1) con Potencia (-1.8), Portadora up (1) con Potencia (43), Portadora down  (1) con Ruido (37.2), Portadora up (1) con Ruido (32.5), Masiva IP (NO), Masiva Cablemodem  (NO), Masiva Trabajo programado (NO) , Masiva Alertado (NO), Masiva Caida de Cable modem (Null), Masiva Caída de Señal (Null), Masiva Caída Amplificador(Null), Ruido actual (NO), Ruido Histórico (SI), Masiva de Saturacion (Null) con una saturación máxima de (Null), Cliente Impactado (Null), Cantidad de Clientes impactados (Null), con un QOE  (Null).",
+        "channel": {
+            "id": "6",
+            "name": "VISOR"
+        },
+        "creationDate": "2021-05-20T15:57:07.481-05:00",
+        "statusChangeDate": "2021-05-20T15:58:57.028-05:00",
+        "relatedParty": [
+            {
+                "id": "20100017491",
+                "referredType": "RUC"
+            }
+        ],
+        "statusChange": [
+            {
+                "status": "Recibido",
+                "changeReason": "Ticket generado",
+                "changeDate": "2021-05-20T15:57:07.486-05:00"
+            },
+            {
+                "status": "Recibido",
+                "changeReason": "Ticket recibido",
+                "changeDate": "2021-05-20T15:58:30.619-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:30.649-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:30.659-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:33.242-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:33.251-05:00"
+            },
+            {
+                "status": "Pendiente",
+                "changeReason": "Orden enviada a FCR Engine",
+                "changeDate": "2021-05-20T15:58:34.855-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:35.001-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:35.011-05:00"
+            },
+            {
+                "status": "Pendiente",
+                "changeReason": "Orden enviada a FCR Engine",
+                "changeDate": "2021-05-20T15:58:35.155-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:52.420-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:52.431-05:00"
+            },
+            {
+                "status": "Pendiente",
+                "changeReason": "Orden enviada a FCR Engine",
+                "changeDate": "2021-05-20T15:58:52.577-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:52.758-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:52.770-05:00"
+            },
+            {
+                "status": "Pendiente",
+                "changeReason": "Orden enviada a FCR Engine",
+                "changeDate": "2021-05-20T15:58:52.913-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:55.020-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:55.034-05:00"
+            },
+            {
+                "status": "Pendiente",
+                "changeReason": "Orden enviada a FCR Engine",
+                "changeDate": "2021-05-20T15:58:55.185-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:55.297-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:55.310-05:00"
+            },
+            {
+                "status": "Pendiente",
+                "changeReason": "Orden enviada a FCR Engine",
+                "changeDate": "2021-05-20T15:58:55.457-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:55.633-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:55.666-05:00"
+            },
+            {
+                "status": "Pendiente",
+                "changeReason": "Orden enviada a FCR Engine",
+                "changeDate": "2021-05-20T15:58:55.924-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:56.048-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:56.077-05:00"
+            },
+            {
+                "status": "Pendiente",
+                "changeReason": "Orden enviada a FCR Engine",
+                "changeDate": "2021-05-20T15:58:56.291-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:56.547-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:56.584-05:00"
+            },
+            {
+                "status": "Pendiente",
+                "changeReason": "Orden enviada a FCR Engine",
+                "changeDate": "2021-05-20T15:58:56.779-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:56.947-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:56.986-05:00"
+            },
+            {
+                "status": "En Progreso",
+                "changeReason": "Ejecutando Flujo",
+                "changeDate": "2021-05-20T15:58:57.021-05:00"
+            },
+            {
+                "status": "Resuelto",
+                "changeReason": "Cliente con estado comercial: (active) , con tecnología (HFC), con Avería Pendiente (SI), Código de Avería (91696598),  Fecha de creación Avería (2021-03-10 12:03:40), Tipo de Avería (Avería Individual), con masiva GAMPE(NO), Descripción masiva (Null), Estado Cable Modem (operational), Niveles de Potencia y Ruido correctos (SI), Portadora down (1) con Potencia (-1.8), Portadora up (1) con Potencia (43), Portadora down  (1) con Ruido (37.2), Portadora up (1) con Ruido (32.5), Masiva IP (NO), Masiva Cablemodem  (NO), Masiva Trabajo programado (NO) , Masiva Alertado (NO), Masiva Caida de Cable modem (Null), Masiva Caída de Señal (Null), Masiva Caída Amplificador(Null), Ruido actual (NO), Ruido Histórico (SI), Masiva de Saturacion (Null) con una saturación máxima de (Null), Cliente Impactado (Null), Cantidad de Clientes impactados (Null), con un QOE  (Null).",
+                "changeDate": "2021-05-20T15:58:57.028-05:00"
+            }
+        ],
+        "attachment": [
+            {
+                "id": "968906",
+                "name": "DiagnosticoExpress[{}]recupera-averia-pendiente-cms",
+                "creationDate": "2021-05-20T15:58:34.712-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:33.258-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:34.705-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "fecha-creacion-masiva-averia",
+                        "value": ""
+                    },
+                    {
+                        "key": "codigo-averia",
+                        "value": "91696598"
+                    },
+                    {
+                        "key": "tipo-averia",
+                        "value": "Avería Individual"
+                    },
+                    {
+                        "key": "codigo-masiva-averia",
+                        "value": ""
+                    },
+                    {
+                        "key": "fecha-creacion-averia",
+                        "value": "2021-03-10 12:03:40"
+                    }
+                ]
+            },
+            {
+                "id": "968904",
+                "name": "InformacionInicial[{}]recupera-identificacion-cliente-atis",
+                "creationDate": "2021-05-20T15:58:31.976-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:31.072-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:31.969-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "nombre-identificacion",
+                        "value": "TELEFONICA DEL PERU SAA."
+                    },
+                    {
+                        "key": "codigo-contacto",
+                        "value": ""
+                    },
+                    {
+                        "key": "numero-identificacion",
+                        "value": "20100017491"
+                    },
+                    {
+                        "key": "codigo-identificacion",
+                        "value": "6359100"
+                    },
+                    {
+                        "key": "tipo-identificacion",
+                        "value": "RUC"
+                    }
+                ]
+            },
+            {
+                "id": "968905",
+                "name": "InformacionInicial[{}]consultar-data-servicio",
+                "creationDate": "2021-05-20T15:58:33.227-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:31.974-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:33.218-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "id-venta-padre",
+                        "value": "0"
+                    },
+                    {
+                        "key": "id-producto",
+                        "value": "21099227"
+                    },
+                    {
+                        "key": "id-cliente-crm",
+                        "value": "8687697"
+                    },
+                    {
+                        "key": "codigo-error",
+                        "value": ""
+                    },
+                    {
+                        "key": "mac",
+                        "value": ""
+                    },
+                    {
+                        "key": "id-producto-padre",
+                        "value": "0"
+                    },
+                    {
+                        "key": "id-servicio",
+                        "value": "2"
+                    },
+                    {
+                        "key": "id-cliente",
+                        "value": "8687697"
+                    },
+                    {
+                        "key": "hub",
+                        "value": "1"
+                    },
+                    {
+                        "key": "nodo-id",
+                        "value": "1438191"
+                    },
+                    {
+                        "key": "id-venta",
+                        "value": "0"
+                    },
+                    {
+                        "key": "id-servicio-padre",
+                        "value": "0"
+                    },
+                    {
+                        "key": "default-product-crm-id",
+                        "value": "SP20M"
+                    },
+                    {
+                        "key": "service-package-crm",
+                        "value": "SP20M"
+                    },
+                    {
+                        "key": "product-name",
+                        "value": "MODEM DOCSIS 3 FC5A1DB7E160"
+                    },
+                    {
+                        "key": "id-isp-crm",
+                        "value": "CPE"
+                    },
+                    {
+                        "key": "nodo",
+                        "value": ""
+                    },
+                    {
+                        "key": "descripcion-error",
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": "968918",
+                "name": "DiagnosticoExpress[{}]recuperar-ruido-historico-xpertrack",
+                "creationDate": "2021-05-20T15:58:55.716-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:55.322-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:55.686-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "valores-ruido-historico",
+                        "value": "[{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T16:00:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":83,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T16:00:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":75,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T16:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T16:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":86,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":85,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:45:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":83,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:30:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":84,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:30:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":75,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":66,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":80,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":79,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:00:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":80,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":85,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":83,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:30:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":84,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T14:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:45:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":82,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":92,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":85,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T13:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:30:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":85,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T12:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":86,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":92,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":83,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T11:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:30:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":90,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:30:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":92,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":86,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":83,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T10:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:45:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T09:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":86,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":80,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":92,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:30:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":92,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":83,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T08:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":92,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":84,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:00:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":82,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T07:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:30:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":86,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":86,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":86,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T06:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":82,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":92,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":86,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T05:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":82,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:30:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":86,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:15:00Z\",\"imp_noise_fail_count\":\"15.0\",\"cpi\":64,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:15:00Z\",\"imp_noise_fail_count\":\"13.0\",\"cpi\":53,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":92,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:00:00Z\",\"imp_noise_fail_count\":\"13.0\",\"cpi\":64,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:00:00Z\",\"imp_noise_fail_count\":\"12.0\",\"cpi\":33,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T04:00:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":87,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:45:00Z\",\"imp_noise_fail_count\":\"15.0\",\"cpi\":63,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:45:00Z\",\"imp_noise_fail_count\":\"12.0\",\"cpi\":50,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:45:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":86,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:30:00Z\",\"imp_noise_fail_count\":\"8.0\",\"cpi\":64,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:30:00Z\",\"imp_noise_fail_count\":\"11.0\",\"cpi\":28,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:30:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":87,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:15:00Z\",\"imp_noise_fail_count\":\"23.0\",\"cpi\":63,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:15:00Z\",\"imp_noise_fail_count\":\"11.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:00:00Z\",\"imp_noise_fail_count\":\"21.0\",\"cpi\":64,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:00:00Z\",\"imp_noise_fail_count\":\"15.0\",\"cpi\":33,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T03:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":85,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:45:00Z\",\"imp_noise_fail_count\":\"19.0\",\"cpi\":58,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:45:00Z\",\"imp_noise_fail_count\":\"11.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:45:00Z\",\"imp_noise_fail_count\":\"6.0\",\"cpi\":88,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:30:00Z\",\"imp_noise_fail_count\":\"15.0\",\"cpi\":56,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:30:00Z\",\"imp_noise_fail_count\":\"14.0\",\"cpi\":33,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:30:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:30:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":88,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:15:00Z\",\"imp_noise_fail_count\":\"16.0\",\"cpi\":52,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:15:00Z\",\"imp_noise_fail_count\":\"23.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:15:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":86,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:00:00Z\",\"imp_noise_fail_count\":\"22.0\",\"cpi\":60,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:00:00Z\",\"imp_noise_fail_count\":\"13.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T02:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:45:00Z\",\"imp_noise_fail_count\":\"20.0\",\"cpi\":53,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:45:00Z\",\"imp_noise_fail_count\":\"13.0\",\"cpi\":50,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":88,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:30:00Z\",\"imp_noise_fail_count\":\"29.0\",\"cpi\":58,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:30:00Z\",\"imp_noise_fail_count\":\"12.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:30:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":85,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:15:00Z\",\"imp_noise_fail_count\":\"17.0\",\"cpi\":50,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:15:00Z\",\"imp_noise_fail_count\":\"19.0\",\"cpi\":50,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":88,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:00:00Z\",\"imp_noise_fail_count\":\"12.0\",\"cpi\":51,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:00:00Z\",\"imp_noise_fail_count\":\"14.0\",\"cpi\":33,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T01:00:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":86,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:45:00Z\",\"imp_noise_fail_count\":\"19.0\",\"cpi\":61,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:45:00Z\",\"imp_noise_fail_count\":\"17.0\",\"cpi\":31,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:45:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":87,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:30:00Z\",\"imp_noise_fail_count\":\"11.0\",\"cpi\":57,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:30:00Z\",\"imp_noise_fail_count\":\"10.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:30:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":87,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:15:00Z\",\"imp_noise_fail_count\":\"11.0\",\"cpi\":53,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:15:00Z\",\"imp_noise_fail_count\":\"15.0\",\"cpi\":34,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:15:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":85,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:00:00Z\",\"imp_noise_fail_count\":\"9.0\",\"cpi\":64,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:00:00Z\",\"imp_noise_fail_count\":\"23.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T00:00:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":87,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:45:00Z\",\"imp_noise_fail_count\":\"16.0\",\"cpi\":55,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:45:00Z\",\"imp_noise_fail_count\":\"15.0\",\"cpi\":33,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:45:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":87,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:30:00Z\",\"imp_noise_fail_count\":\"18.0\",\"cpi\":53,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:30:00Z\",\"imp_noise_fail_count\":\"17.0\",\"cpi\":30,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:30:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":86,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:15:00Z\",\"imp_noise_fail_count\":\"17.0\",\"cpi\":50,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:15:00Z\",\"imp_noise_fail_count\":\"21.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:15:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":88,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:00:00Z\",\"imp_noise_fail_count\":\"16.0\",\"cpi\":51,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:00:00Z\",\"imp_noise_fail_count\":\"19.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:00:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T23:00:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":87,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:45:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":63,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:45:00Z\",\"imp_noise_fail_count\":\"8.0\",\"cpi\":54,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:45:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":87,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:30:00Z\",\"imp_noise_fail_count\":\"6.0\",\"cpi\":82,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:15:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":75,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:00:00Z\",\"imp_noise_fail_count\":\"12.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T22:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:45:00Z\",\"imp_noise_fail_count\":\"5.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":86,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:30:00Z\",\"imp_noise_fail_count\":\"10.0\",\"cpi\":73,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:30:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":86,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:15:00Z\",\"imp_noise_fail_count\":\"6.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:00:00Z\",\"imp_noise_fail_count\":\"9.0\",\"cpi\":83,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T21:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:45:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":86,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:45:00Z\",\"imp_noise_fail_count\":\"7.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:30:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:30:00Z\",\"imp_noise_fail_count\":\"9.0\",\"cpi\":83,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":81,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:15:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":76,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":82,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":74,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T20:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":82,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:45:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":80,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":65,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":92,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:30:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":83,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:30:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":76,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":81,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:15:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":73,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:00:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":82,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:00:00Z\",\"imp_noise_fail_count\":\"16.0\",\"cpi\":56,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T19:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:45:00Z\",\"imp_noise_fail_count\":\"27.0\",\"cpi\":27,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:30:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":82,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:30:00Z\",\"imp_noise_fail_count\":\"14.0\",\"cpi\":54,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":84,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:15:00Z\",\"imp_noise_fail_count\":\"14.0\",\"cpi\":51,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":86,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:00:00Z\",\"imp_noise_fail_count\":\"21.0\",\"cpi\":53,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T18:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:45:00Z\",\"imp_noise_fail_count\":\"8.0\",\"cpi\":62,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:30:00Z\",\"imp_noise_fail_count\":\"7.0\",\"cpi\":85,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:30:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:15:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":86,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T17:00:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":88,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":84,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":87,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:30:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":86,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":91,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":88,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-16T16:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30}]"
+                    },
+                    {
+                        "key": "tiene-ruido-historico",
+                        "value": "SI"
+                    }
+                ]
+            },
+            {
+                "id": "968902",
+                "name": "InformacionInicial[{}]recupera-estado-telefono",
+                "creationDate": "2021-05-20T15:58:30.762-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:30.666-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:30.752-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "public-id",
+                        "value": "13013203"
+                    },
+                    {
+                        "key": "sistema-origen",
+                        "value": "1"
+                    },
+                    {
+                        "key": "customer-id",
+                        "value": "8687697"
+                    },
+                    {
+                        "key": "account-id-cms",
+                        "value": "10145854"
+                    },
+                    {
+                        "key": "customer-id-atis",
+                        "value": "006359100"
+                    },
+                    {
+                        "key": "codigo-servicio-cms",
+                        "value": "10400903"
+                    },
+                    {
+                        "key": "estado-migracion",
+                        "value": "2"
+                    },
+                    {
+                        "key": "account-id-atis",
+                        "value": "627479615"
+                    }
+                ]
+            },
+            {
+                "id": "968916",
+                "name": "DiagnosticoExpress[{}]recuperar-ruido-actual-xpertrack",
+                "creationDate": "2021-05-20T15:58:55.322-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:55.054-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:55.317-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "valores-ruido-actual",
+                        "value": "[{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T16:00:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":83,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T16:00:00Z\",\"imp_noise_fail_count\":\"3.0\",\"cpi\":75,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T16:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":88,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T16:00:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":86,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:45:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":85,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:45:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":83,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:45:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:30:00Z\",\"imp_noise_fail_count\":\"2.0\",\"cpi\":84,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:30:00Z\",\"imp_noise_fail_count\":\"4.0\",\"cpi\":75,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":66,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:30:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":89,\"frequency\":30},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":80,\"frequency\":24},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:15:00Z\",\"imp_noise_fail_count\":\"1.0\",\"cpi\":79,\"frequency\":17},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":37},{\"node\":\"AA R014 A\",\"datetime\":\"2021-05-17T15:15:00Z\",\"imp_noise_fail_count\":\"0.0\",\"cpi\":90,\"frequency\":30}]"
+                    },
+                    {
+                        "key": "tiene-ruido-actual",
+                        "value": "NO"
+                    }
+                ]
+            },
+            {
+                "id": "968903",
+                "name": "InformacionInicial[{}]recupera-info-telefono",
+                "creationDate": "2021-05-20T15:58:31.075-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:30.758-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:31.056-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "access-id-broadband",
+                        "value": ""
+                    },
+                    {
+                        "key": "ciclo-facturacion",
+                        "value": "1"
+                    },
+                    {
+                        "key": "service-id-landline",
+                        "value": "13013203"
+                    },
+                    {
+                        "key": "tecnologia-linea",
+                        "value": "HFC"
+                    },
+                    {
+                        "key": "tecnologia-servicio-red-landline",
+                        "value": ""
+                    },
+                    {
+                        "key": "tecnologia-red-landline",
+                        "value": ""
+                    },
+                    {
+                        "key": "servicio-internet",
+                        "value": "broadband"
+                    },
+                    {
+                        "key": "tecnologia-servicio-red-broadband",
+                        "value": "DOCSIS"
+                    },
+                    {
+                        "key": "tecnologia-red-broadband",
+                        "value": "HFC"
+                    },
+                    {
+                        "key": "estado-linea",
+                        "value": "active"
+                    },
+                    {
+                        "key": "velocidad-subida-servicio-internet",
+                        "value": ""
+                    },
+                    {
+                        "key": "codigo-cliente",
+                        "value": "6359100"
+                    },
+                    {
+                        "key": "access-id-landline",
+                        "value": ""
+                    },
+                    {
+                        "key": "service-id-broadband",
+                        "value": "13013203"
+                    },
+                    {
+                        "key": "velocidad-bajada-servicio-internet",
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": "968914",
+                "name": "DiagnosticoExpress[{}]recupera-sincronismo-multiconsulta",
+                "creationDate": "2021-05-20T15:58:55.049-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:52.781-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:55.041-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "Error"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "Mensaje",
+                        "value": ""
+                    },
+                    {
+                        "key": "EstadoModem",
+                        "value": ""
+                    },
+                    {
+                        "key": "Troba",
+                        "value": ""
+                    },
+                    {
+                        "key": "ERMSG",
+                        "value": ""
+                    },
+                    {
+                        "key": "IspCpe",
+                        "value": ""
+                    },
+                    {
+                        "key": "Fabricante",
+                        "value": ""
+                    },
+                    {
+                        "key": "Nodo",
+                        "value": ""
+                    },
+                    {
+                        "key": "Cmts",
+                        "value": ""
+                    },
+                    {
+                        "key": "MacAddress",
+                        "value": ""
+                    },
+                    {
+                        "key": "PowerDown",
+                        "value": ""
+                    },
+                    {
+                        "key": "MACState",
+                        "value": ""
+                    },
+                    {
+                        "key": "IpCm",
+                        "value": ""
+                    },
+                    {
+                        "key": "Modelo",
+                        "value": ""
+                    },
+                    {
+                        "key": "PowerUp",
+                        "value": ""
+                    },
+                    {
+                        "key": "Ussnr",
+                        "value": ""
+                    },
+                    {
+                        "key": "ERROR",
+                        "value": ""
+                    },
+                    {
+                        "key": "ServicePackage",
+                        "value": ""
+                    },
+                    {
+                        "key": "Firmware",
+                        "value": ""
+                    },
+                    {
+                        "key": "Dssnr",
+                        "value": ""
+                    },
+                    {
+                        "key": "CANTIDAD",
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": "968911",
+                "name": "DiagnosticoExpress[{}]recuperar-alertas-multiconsulta",
+                "creationDate": "2021-05-20T15:58:52.579-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:52.445-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:52.777-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "tiene-masiva-ips",
+                        "value": "NO"
+                    },
+                    {
+                        "key": "tiene-masiva-trabajo",
+                        "value": "NO"
+                    },
+                    {
+                        "key": "tipo-alerta",
+                        "value": ""
+                    },
+                    {
+                        "key": "tiene-masiva-caida-cable-modem",
+                        "value": "NO"
+                    },
+                    {
+                        "key": "tiene-masiva-alertado",
+                        "value": "NO"
+                    }
+                ]
+            },
+            {
+                "id": "968924",
+                "name": "DiagnosticoExpress[{}]consulta-clientes-qoe",
+                "creationDate": "2021-05-20T15:58:57.002-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:56.608-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:56.993-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "dsCapUtilize",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "offlineModems",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "usCapUtilizePassStatus",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "usCapUtilize",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "chronicModems",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "impactedModems",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "totalModems",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "stressedModems",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "afectacion-troba",
+                        "value": "NaN"
+                    },
+                    {
+                        "key": "NodeId",
+                        "value": "86140"
+                    },
+                    {
+                        "key": "qoeScore",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "dsCapUtilizePassStatus",
+                        "value": "ERR999"
+                    },
+                    {
+                        "key": "timestamp",
+                        "value": "ERR999"
+                    }
+                ]
+            },
+            {
+                "id": "968921",
+                "name": "DiagnosticoExpress[{}]consulta-clientes-impactados",
+                "creationDate": "2021-05-20T15:58:56.296-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:56.114-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:56.591-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "cliente-impactado",
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": "968919",
+                "name": "DiagnosticoExpress[{}]recuperar-masiva-saturacion-xpertrack",
+                "creationDate": "2021-05-20T15:58:55.931-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:55.729-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:56.085-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "tiene-masiva-saturacion",
+                        "value": ""
+                    },
+                    {
+                        "key": "masiva-xpertrack-saturacion-maxima",
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "id": "968909",
+                "name": "DiagnosticoExpress[{}]recuperar-sincronismo-mac-niveles-potencia-ruido-iwy2",
+                "creationDate": "2021-05-20T15:58:35.157-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:35.021-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:52.437-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "portadora2-down-ruido",
+                        "value": "37.1"
+                    },
+                    {
+                        "key": "portadora14-down-ruido",
+                        "value": "35.7"
+                    },
+                    {
+                        "key": "mtaMacAddress",
+                        "value": "N/A"
+                    },
+                    {
+                        "key": "ispCPE",
+                        "value": "CPE-CGNAT"
+                    },
+                    {
+                        "key": "portadora11-down-ruido",
+                        "value": "36.4"
+                    },
+                    {
+                        "key": "portadora1-down-potencia",
+                        "value": "-1.8"
+                    },
+                    {
+                        "key": "mtaCMSName",
+                        "value": "N/A"
+                    },
+                    {
+                        "key": "portadora5-down-potencia",
+                        "value": "-2.3"
+                    },
+                    {
+                        "key": "cmFechaAlta",
+                        "value": "10/07/2019 14:17"
+                    },
+                    {
+                        "key": "cantidad-portadoras-up",
+                        "value": "4"
+                    },
+                    {
+                        "key": "swv",
+                        "value": "D258.UUN04.C13.200707.01"
+                    },
+                    {
+                        "key": "portadora3-up-potencia",
+                        "value": "46.4"
+                    },
+                    {
+                        "key": "portadora5-down-ruido",
+                        "value": "36.7"
+                    },
+                    {
+                        "key": "portadora1-up-ruido",
+                        "value": "32.5"
+                    },
+                    {
+                        "key": "portadora8-down-ruido",
+                        "value": "36.4"
+                    },
+                    {
+                        "key": "portadora4-up-potencia",
+                        "value": "46.5"
+                    },
+                    {
+                        "key": "Manufacturer",
+                        "value": ""
+                    },
+                    {
+                        "key": "macaddress",
+                        "value": "b0:ea:bc:07:d7:40"
+                    },
+                    {
+                        "key": "portadora1-up-potencia",
+                        "value": "43"
+                    },
+                    {
+                        "key": "portadora2-up-potencia",
+                        "value": "45"
+                    },
+                    {
+                        "key": "portadora4-down-ruido",
+                        "value": "36.9"
+                    },
+                    {
+                        "key": "portadora16-down-ruido",
+                        "value": "32.9"
+                    },
+                    {
+                        "key": "serialNumber",
+                        "value": "0"
+                    },
+                    {
+                        "key": "portadora14-down-potencia",
+                        "value": "-2.7"
+                    },
+                    {
+                        "key": "upStream",
+                        "value": "Cable1/0/0-upstream3 (AA R014 A)"
+                    },
+                    {
+                        "key": "ip",
+                        "value": "10.80.54.87"
+                    },
+                    {
+                        "key": "cmFechaModificacion",
+                        "value": "27/04/2021 23:29"
+                    },
+                    {
+                        "key": "estado-intraway2",
+                        "value": "operational"
+                    },
+                    {
+                        "key": "portadora9-down-potencia",
+                        "value": "-2.1"
+                    },
+                    {
+                        "key": "servicePackage",
+                        "value": "SP_M1_40M"
+                    },
+                    {
+                        "key": "portadora13-down-potencia",
+                        "value": "-2.3"
+                    },
+                    {
+                        "key": "portadora2-up-ruido",
+                        "value": "32.5"
+                    },
+                    {
+                        "key": "portadora4-down-potencia",
+                        "value": "-2.3"
+                    },
+                    {
+                        "key": "idClienteCRM",
+                        "value": "8687697"
+                    },
+                    {
+                        "key": "portadora8-down-potencia",
+                        "value": "-2.7"
+                    },
+                    {
+                        "key": "portadora10-down-potencia",
+                        "value": "-1.5"
+                    },
+                    {
+                        "key": "portadora3-up-ruido",
+                        "value": "32.5"
+                    },
+                    {
+                        "key": "cantidad-portadoras-down",
+                        "value": "16"
+                    },
+                    {
+                        "key": "portadora9-down-ruido",
+                        "value": "36.5"
+                    },
+                    {
+                        "key": "cmts",
+                        "value": "LIM_VITCMTS3_CBR8 (10.80.0.1)"
+                    },
+                    {
+                        "key": "portadora6-down-ruido",
+                        "value": "36.3"
+                    },
+                    {
+                        "key": "nivel-ok",
+                        "value": "SI"
+                    },
+                    {
+                        "key": "nombre",
+                        "value": "TELEFONICA DEL PERU SAA. TELEFONICA DEL PERU"
+                    },
+                    {
+                        "key": "servicePackageID",
+                        "value": "3736"
+                    },
+                    {
+                        "key": "portadora13-down-ruido",
+                        "value": "36"
+                    },
+                    {
+                        "key": "nodo-troba-segmento-intraway2",
+                        "value": "AA R014 A"
+                    },
+                    {
+                        "key": "portadora10-down-ruido",
+                        "value": "36.6"
+                    },
+                    {
+                        "key": "portadora1-down-ruido",
+                        "value": "37.2"
+                    },
+                    {
+                        "key": "disabled-intraway2",
+                        "value": "0"
+                    },
+                    {
+                        "key": "cmFechaActivacion",
+                        "value": "05/02/2020 19:20"
+                    },
+                    {
+                        "key": "portadora2-down-potencia",
+                        "value": "-1.8"
+                    },
+                    {
+                        "key": "portadora7-down-ruido",
+                        "value": "36.2"
+                    },
+                    {
+                        "key": "portadora7-down-potencia",
+                        "value": "-2.7"
+                    },
+                    {
+                        "key": "macaddress-intraway2",
+                        "value": "b0:ea:bc:07:d7:40"
+                    },
+                    {
+                        "key": "downStream",
+                        "value": ""
+                    },
+                    {
+                        "key": "portadora4-up-ruido",
+                        "value": "32.5"
+                    },
+                    {
+                        "key": "portadora16-down-potencia",
+                        "value": "-2.8"
+                    },
+                    {
+                        "key": "portadora6-down-potencia",
+                        "value": "-2.5"
+                    },
+                    {
+                        "key": "portadora11-down-potencia",
+                        "value": "-1.6"
+                    },
+                    {
+                        "key": "mtaHostname",
+                        "value": "N/A"
+                    },
+                    {
+                        "key": "username",
+                        "value": "8687697LIM"
+                    }
+                ]
+            },
+            {
+                "id": "968908",
+                "name": "DiagnosticoExpress[{}]recupera-masiva-dmpe",
+                "creationDate": "2021-05-20T15:58:35.022-05:00",
+                "additionalData": [
+                    {
+                        "key": "fecha-envio",
+                        "value": "2021-05-20T15:58:34.710-05:00"
+                    },
+                    {
+                        "key": "fecha-respuesta",
+                        "value": "2021-05-20T15:58:35.017-05:00"
+                    },
+                    {
+                        "key": "flujo",
+                        "value": "FCRSM-FIJA-DIAGNOSTICO-EXPRESS"
+                    },
+                    {
+                        "key": "canal",
+                        "value": "VISOR"
+                    },
+                    {
+                        "key": "tipo",
+                        "value": "interno"
+                    },
+                    {
+                        "key": "estado",
+                        "value": "OK"
+                    },
+                    {
+                        "key": "codigo-respuesta",
+                        "value": "00000000"
+                    },
+                    {
+                        "key": "descripcion-respuesta",
+                        "value": "Servicio ejecutado"
+                    },
+                    {
+                        "key": "tiene-masiva-dmpe",
+                        "value": "NO"
+                    },
+                    {
+                        "key": "detalle-informacion-masiva-dmpe",
+                        "value": "{\"ERMSG\":\"\",\"ProductArray\":{\"Product\":{\"ID\":\"1\",\"describeByList\":{\"Characteristic\":[{\"name\":\"IDPRODUCTO\",\"value\":\"21099227\"},{\"name\":\"IDPRODUCTO_MTA\",\"value\":\"1438191\"},{\"name\":\"CMTS\",\"value\":\"HUAYCAN1\"},{\"name\":\"ALIAS\",\"value\":\"HY R021 A\"},{\"name\":\"MACADDRESS\",\"value\":\"b0:ea:bc:07:d7:40\"}]}}},\"ERROR\":\"0\",\"Alarma\":\"OK\"}"
+                    },
+                    {
+                        "key": "descripcion-masiva-dmpe",
+                        "value": ""
+                    }
+                ]
+            }
+        ],
+        "additionalData": [
+            {
+                "key": "contact-name",
+                "value": "Visor QA"
+            },
+            {
+                "key": "sub-operation-code",
+                "value": "99"
+            },
+            {
+                "key": "phone",
+                "value": "13013203"
+            },
+            {
+                "key": "use-case-id",
+                "value": "20000163"
+            },
+            {
+                "key": "contact-telephone-number",
+                "value": "12345678"
+            },
+            {
+                "key": "notification-id",
+                "value": "20000163-001"
+            }
+        ]
+    }
+}
