@@ -1,0 +1,32 @@
+{
+    "attachment": [
+        {
+            "name": "InformacionInicial[{}]consulta-data-servicio",
+            "additionalData": [
+                {
+                    "key": "id-servicio"
+                },
+                {
+                    "key": "nodo"
+                },
+                {
+                    "key": "id-venta"
+                },
+                {
+                    "key": "mac"
+                },
+                {
+                    "key": "id-cliente"
+                }
+            ]
+        },
+        {
+            "name": "InformacionInicial[{}]recupera-info-telefono",
+            "additionalData": [
+                {
+                    "key": "codigo-cliente"
+                }
+            ]
+        }
+    ]
+}
